@@ -302,7 +302,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#0AC6FC !important;}
 
 
 /* Header */
-#header{color:#FFFFFF; background-color:#02a151;}
+#header{color:#FFFFFF; background-color:blue;}
 #header #logo a{color:inherit;}
 
 
